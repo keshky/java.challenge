@@ -16,7 +16,7 @@ public static void main(String []argh){
             int a = in.nextInt();
             int b = in.nextInt();
             int n = in.nextInt();
-            Solution.solveEquation(a,b,n);
+            JavaLoops2.solveEquation(a,b,n);
         }
         in.close();
     }
