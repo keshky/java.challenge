@@ -16,7 +16,7 @@ public class CompareTheTriplets {
 
     // Complete the compareTriplets function below.
     static List<Integer> compareTriplets(List<Integer> a, List<Integer> b) {
-        List<Integer> result = new ArrayList();
+        List<Integer> result = new ArrayList<Integer>();
         int countA = 0,countB =0;
         for(int i=0;i<a.size();i++){
             for(int j=i;j<=i;j++){
