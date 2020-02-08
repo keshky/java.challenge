@@ -3,10 +3,14 @@
 ## This repository for documenting the solutions for the challenges under the
 
 ```
+>
+*
 **Java** domain located at [https://www.hackerrank.com/domains/java]
 ```
 
 ```
+>
+*
 **Problem Solving** domain located at [https://www.hackerrank.com/domains/algorithms]
 ```
 ---
