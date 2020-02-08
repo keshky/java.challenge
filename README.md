@@ -4,7 +4,8 @@
 
 > * **Java** domain located at [java](https://www.hackerrank.com/domains/java)
 
+
 > * **Problem Solving** domain located at [algorithms](https://www.hackerrank.com/domains/algorithms)
 ---
-Note: Solutions are developed under a maven project with package "keshky.hackerrank.java.challenge"
-Each solution has two files ".java" src code & ".pdf" problem statement 
+*Note:* 'Solutions are developed under a maven project with package "keshky.hackerrank.java.challenge"
+Each solution has two files ".java" src code & ".pdf" problem statement '
